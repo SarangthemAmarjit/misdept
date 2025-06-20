@@ -101156,12 +101156,12 @@ A.h3(B.e.j(s.CW),"")},
 Nr(){var s=this.dx
 if(s.f.length!==0){A.h3("dsdas","")
 s.jf(0,B.ho,B.Qd)}},
-tN(a){var s,r=B.a2x.gE8(window.location),q=r+"/misdept/"+a
+tN(a){var s,r=B.a2x.gE8(window.location)
 if(B.d.t(r,"localhost")){s=window
 s.toString
-B.Lk.a1B(s,q,"_self")}else{s=window
+B.Lk.a1B(s,r+"/misdept/"+a,"_self")}else{s=window
 s.toString
-B.Lk.a1B(s,q,"_self")}}}
+B.Lk.a1B(s,r+"/misdept/assets/"+a,"_self")}}}
 A.S0.prototype={
 zf(a){var s=null
 switch(a){case"landing":return B.rm
