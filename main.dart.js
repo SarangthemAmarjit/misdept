@@ -101159,9 +101159,9 @@ s.jf(0,B.ho,B.Qd)}},
 tN(a){var s,r=B.a2x.gE8(window.location)
 if(B.d.t(r,"localhost")){s=window
 s.toString
-B.Lk.a1B(s,r+"/misdept/"+a,"_self")}else{s=window
+B.Lk.a1B(s,r+"/misdept/"+a,"_blank")}else{s=window
 s.toString
-B.Lk.a1B(s,r+"/misdept/assets/"+a,"_self")}}}
+B.Lk.a1B(s,r+"/misdept/assets/"+a,"_blank")}}}
 A.S0.prototype={
 zf(a){var s=null
 switch(a){case"landing":return B.rm
