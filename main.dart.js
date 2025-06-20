@@ -100098,7 +100098,7 @@ A.aKs.prototype={
 $0(){$.aw()
 var s=$.aI
 if(s==null)s=$.aI=B.Q
-return A.cw([s.co(0,null,t.A).tN("assets/files/RTI-SPIO & ASPIO Order.pdf")],t.H)},
+return A.cw([s.co(0,null,t.A).tN("files/RTI_SPIO_&_ASPIO_Order.pdf")],t.H)},
 $S:0}
 A.aKt.prototype={
 $0(){$.aw()
@@ -101142,8 +101142,8 @@ switch(a){case"CMIS":return s
 case"NPS":return"https://cra-nsdl.com/CRA/"
 case"Employee Corner":return s
 default:return null}},
-a4e(a){switch(a){case u.p:return"assets/files/Nodal Officer CPGRAMS-MIS.pdf"
-case"Internal Complaints Committee (ICC)":return"assets/files/Order for constitution of ICC.pdf"
+a4e(a){switch(a){case u.p:return"files/Nodal_Officer_CPGRAMS_MIS.pdf"
+case"Internal Complaints Committee (ICC)":return"files/Order_for_constitution_of_ICC.pdf"
 default:return null}},
 OX(a,b,c){var s=this
 if(s.CW!==a){A.h3("not equal","")
@@ -112959,7 +112959,7 @@ $.kv=function(){var s=t.n
 return A.a([A.a([0.41233895,0.35762064,0.18051042],s),A.a([0.2126,0.7152,0.0722],s),A.a([0.01932141,0.11916382,0.95034478],s)],t.zg)}()
 $.vT=A.a([95.047,100,108.883],t.n)
 $.bdw=function(){var s="2025-06-20T11:04:48.460Z",r=t.N,q=t.K
-return A.a([A.ai(["Id",1,"FilePath","files/CMIS OM_Check List.pdf","Title","CMIS OM Check List","Date",s],r,q),A.ai(["Id",2,"FilePath","assets/files/CMIS OM_General Instructions.pdf","Title","CMIS OM General Instructions","Date",s],r,q),A.ai(["Id",3,"FilePath","assets/files/CMIS OM.pdf","Title","CMIS OM","Date",s],r,q),A.ai(["Id",4,"FilePath","assets/files/SIN_OM_2013.pdf","Title","SIN OM 2013","Date",s],r,q)],A.ay("r<aN<l,M>>"))}()
+return A.a([A.ai(["Id",1,"FilePath","files/CMIS_OM_Check_List.pdf","Title","CMIS OM Check List","Date",s],r,q),A.ai(["Id",2,"FilePath","files/CMIS_OM_General_Instructions.pdf","Title","CMIS OM General Instructions","Date",s],r,q),A.ai(["Id",3,"FilePath","files/CMIS_OM.pdf","Title","CMIS OM","Date",s],r,q),A.ai(["Id",4,"FilePath","files/SIN_OM_2013.pdf","Title","SIN OM 2013","Date",s],r,q)],A.ay("r<aN<l,M>>"))}()
 $.aW2=null
 $.aIQ=null
 $.b53=A.u(t.S,A.ay("bgY"))
